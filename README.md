@@ -20,7 +20,7 @@ Highlights:
 
 ------------
 
-https://github.com/user-attachments/assets/a64cc957-4965-4afb-9077-b37b1071c08a
+https://github.com/user-attachments/assets/9c7c9156-a5a2-4000-9dca-409b27980903
 
 ------------
 
@@ -220,7 +220,7 @@ Alternatively, you can modify the command line argument in Code::Blocks by navig
 In debug mode, you’ll see the tail of each vehicle. When a vehicle’s tail crosses the imaginary borderline, it is added to the count.<br> 
 At this point, the bounding box is highlighted, which helps in identifying any missed vehicles.<br><br>
 
-https://github.com/user-attachments/assets/4b67bebb-af1f-4edd-9ba6-c8217ecdcf56
+https://github.com/user-attachments/assets/a0c47f52-f53c-41e8-b216-f17174b6b1ed
 
 ------------
 
